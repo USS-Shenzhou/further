@@ -4,7 +4,8 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "modid.refmap.json",
   "mixins": [
-    "MixinTileEntity"
+    "MixinTileEntity",
+    "MixinSetting"
   ],
   "minVersion": "0.8"
 }
